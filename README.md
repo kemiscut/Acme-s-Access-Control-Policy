@@ -21,7 +21,7 @@ NAME	| TITLE	| STATUS
 In an era defined by rapid digital transformation and an increasing reliance on technology, safeguarding sensitive information has become paramount. Access to this information must be carefully managed to mitigate risks. 
 This policy is created to address the critical need for effective identity and access management, providing a robust framework that aligns with international standards such as ISO/IEC 27001:2022,  the General Data Protection Regulation (GDPR), the Payment Card Industry Data Security Standard (PCIDSS), and the National Institute of Standards and Technology (NIST) guidelines for access control.
 
-2.0 PURPOSE
+### 2.0 PURPOSE
 The purpose of this policy is to establish a framework for access control that ensures the protection of sensitive information and information processing facilities in alignment with Acme’s business requirement.
 
 ### 3.0 OBJECTIVES
